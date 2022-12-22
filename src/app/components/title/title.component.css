@@ -1,0 +1,19 @@
+.image-bg{
+    position: realtive;
+    
+}
+.quote-title{
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    font-size: 25px;
+}
+.quote-description{
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    font-size: 15px;
+}
+.quote{
+    background-color: rgb(93, 167, 219);
+}
